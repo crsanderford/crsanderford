@@ -1,16 +1,16 @@
-### Hi there 👋
+# Connor Sanderford
+I'm Connor - a bioengineering student at Arizona State University.
+
+Prior to school I led a group of students through training in data science as a Team Lead at Lambda School.
 
 <!--
-**crsanderford/crsanderford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - current contribution interests
+ - current role at ASU
+ - interest in matrix factorization
 
-Here are some ideas to get you started:
+ - skills and tools
+ - blogposts
+ - deployed projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - contact info
 -->
