@@ -9,7 +9,15 @@ Currently interested in:
 - L1-norm optimization.
 - Functional programming.
 
+I'd like to contribute to projects as a machine learning engineer or data engineer.
 
+<br />
+
+Languages, libraries and tools:
+- Python
+- SQL
+- MATLAB
+- F#
 
 <!--
  - current contribution interests
