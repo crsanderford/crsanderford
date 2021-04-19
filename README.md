@@ -15,7 +15,15 @@ I'd like to contribute to projects as a machine learning engineer or data engine
 
 Languages, libraries and tools:
 - Python
+    - Pandas
+    - NumPy
+    - scikit-learn
+    - spaCy
+    - Flask
+    - Streamlit
+    - Altair
 - SQL
+- AWS
 - MATLAB
 - F#
 
