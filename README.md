@@ -23,6 +23,9 @@ Languages, libraries and tools:
     - Streamlit
     - Altair
 - SQL
+    - SQLite
+    - PostgreSQL and psycopg2
+    - SQLAlchemy
 - AWS
 - MATLAB
 - F#
