@@ -27,6 +27,9 @@ Languages, libraries and tools:
     - PostgreSQL and psycopg2
     - SQLAlchemy
 - AWS
+    - AWS Elastic Beanstalk
+    - AWS RDS
+    - AWS Sagemaker
 - MATLAB
 - F#
 
