@@ -22,6 +22,7 @@ Languages, libraries and tools:
     - Flask
     - Streamlit
     - Altair
+    - Tensorflow
 - SQL
     - SQLite
     - PostgreSQL and psycopg2
