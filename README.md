@@ -33,6 +33,7 @@ Languages, libraries and tools:
     - AWS Sagemaker
 - MATLAB
 - F#
+- Docker
 
 <!--
  - current contribution interests
