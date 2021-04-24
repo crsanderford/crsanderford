@@ -4,7 +4,7 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
 <br />
 
 Currently interested in: 
-- matrix factorization models, especially applying them to domains outside recommender systems.
+- Matrix factorization models, especially applying them to domains outside recommender systems.
 - Strategies for high-dimensional, sparse data.
 - L1-norm optimization.
 - Functional programming.
@@ -35,12 +35,15 @@ Languages, libraries and tools:
 - F#
 - Docker
 
-<!--
- - current contribution interests
- - current role at ASU
- - interest in matrix factorization
+<br />
 
- - skills and tools
+Blogposts
+- [DBSCAN from Scratch](https://crsanderford.github.io/posts/2020/08/28/dbscan-from-scratch.html) - an implementation of a popular clustering method.
+- [Animal Spirits](https://crsanderford.github.io/posts/2019/10/23/animal-spirits-post.html) - sentiment analysis of tweets about bitcoin.
+
+<!--
+ - current role at ASU
+
  - blogposts
  - deployed projects
 
