@@ -41,10 +41,13 @@ Blogposts
 - [DBSCAN from Scratch](https://crsanderford.github.io/posts/2020/08/28/dbscan-from-scratch.html) - an implementation of a popular clustering method.
 - [Animal Spirits](https://crsanderford.github.io/posts/2019/10/23/animal-spirits-post.html) - sentiment analysis of tweets about bitcoin.
 
+Deployed projects
+ - [YelpSense](https://yelpsense.com/NLP) - sentiment analysis of Yelp's Academic Dataset using fine-tuned BERT models.
+ - [Animal Spirits](https://animal-spirits-crsanderford.herokuapp.com/) - a sentiment model deployed on Heroku, serving current and historical sentiment information about bitcoin tweets.
+
 <!--
  - current role at ASU
 
- - blogposts
  - deployed projects
 
  - contact info
