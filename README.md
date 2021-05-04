@@ -28,6 +28,7 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
     - Tensorflow and Keras
 - SQL
     - SQLite
+    - Microsoft SQL Server
     - PostgreSQL and psycopg2
     - SQLAlchemy
 - AWS
