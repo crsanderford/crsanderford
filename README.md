@@ -25,7 +25,7 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
     - Flask
     - Streamlit
     - Altair
-    - Tensorflow
+    - Tensorflow and Keras
 - SQL
     - SQLite
     - PostgreSQL and psycopg2
