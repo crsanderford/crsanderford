@@ -19,12 +19,12 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
 ### 🛠️ Languages, libraries and tools:
 - Python
     - Pandas
-    - NumPy
+    - numPy
     - scikit-learn
     - spaCy
     - Flask
     - Streamlit
-    - Altair
+    - Matplotlib, Plotly, Altair
     - Tensorflow and Keras
 - SQL
     - SQLite
