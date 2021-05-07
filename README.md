@@ -21,7 +21,7 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
     - Pandas
     - numPy
     - scikit-learn
-    - spaCy
+    - spaCy and NLTK
     - Flask
     - Streamlit
     - Matplotlib, Plotly, Altair
