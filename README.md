@@ -24,7 +24,7 @@ I'm Connor - a bioengineering student at Arizona State University, and a graduat
     - spaCy and NLTK
     - Flask
     - Streamlit
-    - Matplotlib, Plotly, Altair
+    - Matplotlib, Seaborn, Plotly, Altair
     - Tensorflow and Keras
 - SQL
     - SQLite
