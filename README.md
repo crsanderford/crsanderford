@@ -8,7 +8,7 @@ ML for spatial transcriptomics @ [BioProtean Labs](https://github.com/BioProtean
 ### 💡 Currently interested in: 
 - Matrix factorization and factorization machines, especially in the context of domains outside recommender systems.
 - Strategies for high-dimensional, sparse data.
-- L1-norm optimization and regularization.
+- L<sub>1</sub>-norm optimization and regularization.
 - Functional programming for ML.
 
 ---
