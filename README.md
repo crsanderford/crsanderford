@@ -1,8 +1,8 @@
 # Connor Sanderford
 
-Bioengineering student @ SBHSE ASU
+bioengineering and math student @ SBHSE, SOMSS, ASU
 
-ML for spatial transcriptomics @ [BioProtean Labs](https://github.com/BioProteanLabs)
+ML for spatial transcriptomics and magnetic resonance spectroscopy @ [BioProtean Labs](https://github.com/BioProteanLabs)
 
 
 ### 💡 Currently interested in: 
@@ -23,7 +23,7 @@ ML for spatial transcriptomics @ [BioProtean Labs](https://github.com/BioProtean
     - Flask
     - Streamlit
     - Matplotlib, Seaborn, Plotly, Altair
-    - Tensorflow and Keras
+    - PyTorch
 - SQL
     - SQLite
     - Microsoft SQL Server
