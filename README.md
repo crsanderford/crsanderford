@@ -1,8 +1,10 @@
 # Connor Sanderford
 
-bioengineering and math student @ SBHSE, SOMSS, ASU
+bioengineering and math student @ SBHSE, SoMSS, ASU
 
 ML for spatial transcriptomics and magnetic resonance spectroscopy @ [BioProtean Labs](https://github.com/BioProteanLabs)
+
+python for inverse problems with [Mirjeta Pasha](https://github.com/mpasha3)
 
 
 ### 💡 Currently interested in: 
@@ -50,4 +52,6 @@ ML for spatial transcriptomics and magnetic resonance spectroscopy @ [BioProtean
 ---
 
 ### 🤙 Contact me:
+ - here
+ - [twitter](https://twitter.com/crsanderford)
  - [linkedin](https://www.linkedin.com/in/crsanderford/)
